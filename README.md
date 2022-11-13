@@ -7,3 +7,5 @@
 📫 How to reach me: On Discord (Rainy~#2571)\
 😄 Pronouns: Any\
 ⚡ Fun fact: I'm also an Amateur VA.
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,py,prisma,postgres,node,linux,raspberrypi)](https://skillicons.dev)
