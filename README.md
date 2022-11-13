@@ -8,4 +8,6 @@
 😄 Pronouns: Any\
 ⚡ Fun fact: I'm also an Amateur VA.
 
+#### Tools I Know
+
 [![My Skills](https://skillicons.dev/icons?i=js,ts,py,prisma,postgres,nodejs,linux,raspberrypi)](https://skillicons.dev)
