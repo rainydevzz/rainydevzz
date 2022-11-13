@@ -10,4 +10,4 @@
 
 #### Tools I Know
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,py,prisma,postgres,nodejs,linux,raspberrypi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,py,prisma,postgres,nodejs,linux,raspberrypi,discord,vscode)](https://skillicons.dev)
