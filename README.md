@@ -6,7 +6,7 @@
 💬 Ask me about databases and some other backend things.\
 📫 How to reach me: On Discord (Rainy~#2571) or On Instagram (rainy.dev)\
 😄 Pronouns: Any\
-⚡ Fun fact: I'm also an Amateur VA.
+⚡ Fun fact: I'm also an Amateur VA
 
 #### Tools I Know
 
