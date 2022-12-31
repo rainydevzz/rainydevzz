@@ -8,6 +8,10 @@
 😄 Pronouns: Any\
 ⚡ Fun fact: I'm also an Amateur VA
 
+#### Cool Stuff
+- [Simple Interpreter in Rust](https://github.com/laserzz/BasedScript)
+- A couple of discord bots, [here's one](https://github.com/laserzz/rainbot)
+
 #### Tools I Know
 
 [![My Skills](https://skillicons.dev/icons?i=rust,py,js,ts,html,css,prisma,postgres,nodejs,linux,raspberrypi,discord,vscode,sqlite,mongodb,eclipse,bash)](https://skillicons.dev)
