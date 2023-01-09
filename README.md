@@ -11,6 +11,7 @@
 #### Cool Stuff
 - [Simple Interpreter in Rust](https://github.com/laserzz/BasedScript)
 - A couple of discord bots, [here's one](https://github.com/laserzz/rainbot)
+- [And here's another](https://github.com/laserzz/Barri)
 
 #### Tools I Know
 
