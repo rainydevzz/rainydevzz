@@ -14,3 +14,5 @@
 #### Tools I Know
 
 [![My Skills](https://skillicons.dev/icons?i=rust,py,js,ts,html,css,prisma,postgres,nodejs,linux,raspberrypi,discord,vscode,sqlite,mongodb,eclipse,bash)](https://skillicons.dev)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laserzz&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
