@@ -10,6 +10,7 @@
 - [Simple Interpreter in Rust](https://github.com/laserzz/BasedScript)
 - A couple of discord bots, [here's one](https://github.com/laserzz/rainbot)
 - [And here's another](https://github.com/laserzz/Barri)
+- [A Lightweight Command Framework for Oceanic](https://github.com/laserzz/splashpad.js)
 
 #### Tools I Know
 
