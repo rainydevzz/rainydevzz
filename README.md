@@ -1,16 +1,13 @@
 ### Hi there 👋
 
-#### Hiya! You can call me Rainy. I'm interested in backend development, Discord bots, AI, Web Development, and much more.
+#### Hiya! You can call me Rainy. I'm interested in web development, database development, AI, Discord Bots, and shilling Rust.
 
-📫 How to reach me: On Discord (Rainy~#2571) or On Instagram (rainy.dev)\
+📫 How to reach me: On Discord (rainydevzz) or On Instagram (rainy.dev)\
 😄 Pronouns: Any\
 ⚡ Fun fact: I'm also an Amateur VA
 
 #### Cool Stuff
-- [Simple Interpreter in Rust](https://github.com/laserzz/BasedScript)
-- A couple of discord bots, [here's one](https://github.com/laserzz/rainbot)
-- [And here's another](https://github.com/laserzz/Barri)
-- [A Lightweight Command Framework for Oceanic](https://github.com/laserzz/splashpad.js)
+- [In-memory DBMS in Rust](https://github.com/sodium-db/sodiumdb)
 
 #### Tools I Know
 
