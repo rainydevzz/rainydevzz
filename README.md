@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-#### Hiya! You can call me Rainy. I'm interested in web development, database development, AI, Discord Bots, and shilling Rust.
+#### Hiya! You can call me Rainy. I'm interested in web development, database development, backend development, and shilling Rust.
 
-📫 How to reach me: on [Matrix](https://matrix.to/#/@rainydevzz:matrix.org) or on XMPP (rainydevzz@ubuntu-jabber.net)\
+📫 How to reach me: on [Matrix](https://matrix.to/#/@rainydevzz:matrix.org) or on XMPP (rainydevzz@ubuntu-jabber.net) or on [Mastodon](@rainydevzz@mastodon.social) (Matrix is preferred)\
 😄 Pronouns: Any\
 ⚡ Fun fact: I'm also an Amateur VA
 
