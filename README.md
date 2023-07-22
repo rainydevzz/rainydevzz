@@ -11,4 +11,4 @@
 
 #### Tools I Know
 
-[![My Skills](https://skillicons.dev/icons?i=rust,py,js,ts,html,css,prisma,postgres,nodejs,linux,raspberrypi,discord,vscode,sqlite,mongodb,eclipse,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,py,js,ts,html,css,tailwind,prisma,postgres,nodejs,linux,raspberrypi,vscode,sqlite,mongodb,eclipse,bash)](https://skillicons.dev)
