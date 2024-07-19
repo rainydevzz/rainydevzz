@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### Hiya! You can call me Rainy. I'm interested in web development, database development, backend development, and shilling Rust.
+#### Hiya! You can call me Rainy. I'm interested in web development, database development, backend development, and more :3
 
 📫 How to reach me: on [Matrix](https://matrix.to/#/@rainydevzz:matrix.org) or on Discord @ rainy.boyo\
 
